@@ -1,0 +1,5 @@
+wifi ssid -JioFi2_C49BD1
+
+wifi pass-v9xixvc5tv
+
+api key- AIzaSyAC5Fce0IrgDE4BINylDw61q-cU0eYXl88
